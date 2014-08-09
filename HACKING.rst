@@ -1,4 +1,4 @@
-Horizon Style Commandments
+Horizon Style Commandments 
 ==========================
 
 - Step 1: Read the OpenStack Style Commandments
